@@ -1,0 +1,15 @@
+h1 {
+    font-size: xx-large;
+    font-weight: bold;
+    text-decoration: underline;
+}
+h2 {
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+}
+img[alt=Manu_Chao] {
+    border: 8px solid red;
+    width: 666px;
+    height: 333px;
+}
